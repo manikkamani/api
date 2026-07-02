@@ -9,6 +9,6 @@ def home():
 @app.get("/teams-notification")
 def teams_notification():
     return {
-        "recipient": "john@company.com",
-        "message": "Please approve Invoice #123"
+        "recipient": "anirban_hati@epam.com",
+        "message": "Ds project test"
     }
