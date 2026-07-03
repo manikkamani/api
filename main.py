@@ -16,7 +16,7 @@ def teams_notification():
     ],
     "message": [
         "Hi anirban DS project test",
-        "Hi manikkamani DS project test"
+        "Hi manikkamani DS project test",
         "Hi saran DS project test"
     ]
 }
