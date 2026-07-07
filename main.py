@@ -12,11 +12,11 @@ def teams_notification():
     "recipient": [
         "anirban_hati@epam.com",
         "manikkamani_subramani@epam.com",
-        "saran_kaanthl@epam.com"
+        "kaushik_shankar@epam.com"
     ],
     "message": [
         "Hi anirban DS project test",
         "Hi manikkamani DS project test",
-        "Hi saran DS project test"
+        "Hi kaushik DS project test"
     ]
 }
